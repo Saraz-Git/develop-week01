@@ -12,5 +12,4 @@
 
 
 ## Deploy
-* The URL of the deployed application:
-* The URL of the GitHub repository:
+* The URL of the deployed application: https://saraz-git.github.io/develop-week01/
